@@ -1,7 +1,8 @@
-import './App.css'
+import './style.css'
 
 //É aqui onde se escreve todos os códigos do componente REACT
-function App() {
+//Eu posso Renomear a Função principal do App
+function Home() {
 
   return (
       <div>
@@ -10,4 +11,4 @@ function App() {
   )
 }
 
-export default App
+export default Home
